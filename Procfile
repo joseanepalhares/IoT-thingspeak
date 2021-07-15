@@ -1,0 +1,1 @@
+web: gunicorn IoTThings.wsgi:application --preload --log-file -

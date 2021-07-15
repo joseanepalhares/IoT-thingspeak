@@ -1,4 +1,4 @@
-from IoTThings.settings import TIME_ZONE
+from IoTThings.settings.base import TIME_ZONE
 from django.shortcuts import render
 import requests
 import json
