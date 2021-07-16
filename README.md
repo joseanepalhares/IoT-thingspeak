@@ -1,3 +1,3 @@
 ## IoT-thingspeak
-## Link Dashboard heroku
+## Dashboard heroku
 https://iot-thingspeak-josy.herokuapp.com/
